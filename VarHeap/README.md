@@ -1,3 +1,5 @@
+# Files within hw6 package
+
 ## dHeap.java
 Implements dHeapInterface to create a class used for creating heaps with varying numbers of children per node. Uses an array to create heap but tracks data as if it was in a tree.
 
