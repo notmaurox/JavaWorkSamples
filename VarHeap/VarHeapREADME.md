@@ -31,4 +31,4 @@ run 100
 Uses a binary dHeap object to provide the functionality of a priority queue with add and poll methods.
 
 ## Record.java
-Class used to store tasks with process name, duration, and deadline. Also contains methods for comparing. Also contains getter methods.
+Class used to store tasks with process name, duration, and deadline. Also contains methods for comparing and contains getter methods.
